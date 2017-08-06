@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "alwaysStrict": true,
+    "charset": "utf-8",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "jsx": "react",
+    "outDir": "./dist"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
